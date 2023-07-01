@@ -1,4 +1,4 @@
-# TokoAnekaSosis
+# TokoBaju
 1.halaman untuk menambahkan baju yang ingim diinputkan<p>
   <img src="https://github.com/hamimmasudin/TokoBaju2/blob/master/insert.png">
   
